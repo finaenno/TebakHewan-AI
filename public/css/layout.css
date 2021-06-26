@@ -22,6 +22,10 @@ nav{
     margin-top: -50px;
 }
 
+nav ul li a:hover{
+    color: grey;
+}
+
 nav ul li{
     display: inline-block;
     padding: 15px;
@@ -129,3 +133,61 @@ nav ul li a{
     font-weight: bold;
 }
 
+.playPage{
+    display: flex;
+}
+
+.playPage .left{
+    width: 50%;
+    margin: -30px 0 0 230px;
+}
+
+.playPage .right{
+    display: block;
+    max-width: 40%;
+    margin-top: 100px;
+    margin-left: -240px;
+}
+
+.playPage .right button{
+    display: block;
+    width: 250px;
+    text-align: center;
+    height: 50px;
+    border-radius: 20px;
+    margin: 25px 0 0 20px;
+    border: 2px solid #812D58;
+    color: #812D58;
+}
+
+.playPage .right button:hover{
+    background-color: grey;
+}
+
+.result{
+    display: flex;
+}
+
+.result .left{
+    width: 50%;
+    margin: -30px 0 0 230px;
+}
+
+.result .right{
+    max-width: 45%;
+    margin-top: 110px;
+    margin-left: -260px;
+    line-height: 1.5;
+    background-color: white;
+    border: 3px solid #812D58;
+    border-radius: 20px;
+    padding: 20px;
+    height: 300px;
+}
+
+.result .right .title{
+    color: #812D58;
+    font-size: 20pt;
+    font-weight: bold;
+    margin-bottom: 15px;
+}

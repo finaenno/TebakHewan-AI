@@ -15,4 +15,7 @@ class PagesController extends Controller
     public function play(){
         return view('play');
     }
+    public function result(){
+        return view('result');
+    }
 }

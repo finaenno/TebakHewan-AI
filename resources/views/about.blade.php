@@ -29,19 +29,19 @@
             <p>M0519040</p>
         </div>
         <div class="team2">
-            <img src="img/team/fina.jpg" alt="" width="200" height="200">
+            <img src="img/team/farras.png" alt="" width="200" height="200">
             <p>Farras Arkan Isnaini Josi</p>
-            <p>M0519040</p>
+            <p>M0519035</p>
         </div>
         <div class="team3">
-            <img src="img/team/fina.jpg" alt="" width="200" height="200">
+            <img src="img/team/fathiya.jpeg" alt="" width="200" height="200">
             <p>Fathiya Farahdilla Husna</p>
-            <p>M0519040</p>
+            <p>M0519036</p>
         </div>
         <div class="team4">
-            <img src="img/team/fina.jpg" alt="" width="200" height="200">
+            <img src="img/team/krisna.png" alt="" width="200" height="200">
             <p>Krisna Sanjaya</p>
-            <p>M0519040</p>
+            <p>M0519055</p>
         </div>
     </div>
 </body>
